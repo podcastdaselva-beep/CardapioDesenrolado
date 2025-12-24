@@ -73,8 +73,8 @@ const Login: React.FC = () => {
     <div className="min-h-screen flex items-center justify-center bg-gray-50 p-6">
       <div className="bg-white w-full max-w-md rounded-[2.5rem] shadow-2xl overflow-hidden">
         
-        <div className="bg-red-600 p-10 text-center">
-          <h1 className="text-4xl font-black text-white mb-2 tracking-tight italic">MenuSaaS</h1>
+        <div className="bg-red-600 p-10 text-center flex flex-col items-center">
+          <img src="/logo.png" alt="Desenrolado Burguer" className="h-20 w-auto mb-2" />
           <p className="text-red-100 font-medium text-sm">DesenroladoBurguer Dashboard</p>
         </div>
 
