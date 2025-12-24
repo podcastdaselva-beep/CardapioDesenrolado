@@ -1,0 +1,6 @@
+
+{
+  "name": "MenuSaaS - Plataforma de Cardápios Digitais",
+  "description": "Uma plataforma SaaS multi-tenant para criação de cardápios digitais integrados ao WhatsApp com analytics e pixel do Facebook.",
+  "requestFramePermissions": []
+}
